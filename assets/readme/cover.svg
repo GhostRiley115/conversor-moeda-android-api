@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Conversor de Moedas</title><desc id="desc">Cotações conectadas à experiência mobile.</desc>
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#122d28"/><stop offset="1" stop-color="#0b111b"/></linearGradient></defs>
+<rect width="1200" height="360" rx="24" fill="url(#g)"/>
+<g fill="none" stroke="#a8efd0" opacity=".18"><circle cx="1085" cy="160" r="185"/><circle cx="1085" cy="160" r="135"/><circle cx="1085" cy="160" r="85"/><path d="M875 335L1150 60M965 365L1240 90"/></g>
+<rect x="58" y="57" width="40" height="5" rx="2" fill="#a8efd0"/>
+<text x="58" y="103" font-family="Arial, sans-serif" font-size="16" letter-spacing="3" fill="#a8efd0">KOTLIN  /  ANDROID  /  RETROFIT</text>
+<text x="55" y="188" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff">Conversor de Moedas</text>
+<text x="58" y="244" font-family="Arial, sans-serif" font-size="24" fill="#dce3e8">Cotações conectadas à experiência mobile.</text>
+<text x="58" y="315" font-family="Arial, sans-serif" font-size="14" letter-spacing="2" fill="#a8efd0">CLAYTON BRITO  ·  PORTFÓLIO DE DESENVOLVIMENTO</text></svg>
